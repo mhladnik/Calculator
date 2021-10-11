@@ -1,4 +1,4 @@
-a=list(input("Write down what you  want to calculate: "))
+a=input("SINGLE DIGIT CALCULATOR - Write down what you  want to calculate: ")
 
 if a[1] == "+":
     print(int(a[0])+int(a[2]))
